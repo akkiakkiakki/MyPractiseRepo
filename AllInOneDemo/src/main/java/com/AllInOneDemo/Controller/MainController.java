@@ -9,6 +9,7 @@ public class MainController
 	@RequestMapping("/")
 	public String home()
 	{
+		System.out.println("akk");
 		return "index";
 	}
 }
