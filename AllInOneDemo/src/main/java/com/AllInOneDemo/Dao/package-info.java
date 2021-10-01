@@ -7,6 +7,6 @@ class test
 	}
 	public static void mm()
 	{
-		
+		System.out.println("a");
 	}
 }
