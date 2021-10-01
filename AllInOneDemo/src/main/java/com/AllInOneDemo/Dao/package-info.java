@@ -3,5 +3,10 @@ class test
 {
 	public static void m()
 	{
+		
+	}
+	public static void mm()
+	{
+		
 	}
 }
